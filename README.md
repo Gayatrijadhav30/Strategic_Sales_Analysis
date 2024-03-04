@@ -49,4 +49,4 @@ The consumer electronic company has requested a comprehensive analysis of its sa
 - Summary of Key Insight
 
 
-![AI](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis_for_Consumer_Electronics_Company/assets/147386271/d67892ec-c19b-4e1d-8154-66ac43a7e94a)
+![AI](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis/assets/147386271/023eaba5-c2e6-4faf-bbf6-400adcaae448)
