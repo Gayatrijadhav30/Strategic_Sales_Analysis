@@ -40,7 +40,7 @@ The consumer electronic company has requested a comprehensive analysis of its sa
 - Top and Bottom Product Categories by Year
 
 
-![ItemByRevenue](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis_for_Consumer_Electronics_Company/assets/147386271/9e4396af-e748-49d2-afc7-7eee5c350d9b)
+![ItemByRevenue](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis/assets/147386271/32b8cf4d-147c-4875-b926-5cc579758285)
 
 ### Report 3: Employee Performance and Revenue Breakdown
 - Employee Performance based on Quantity Sold and Earnings after Discount by Year and Quarter
