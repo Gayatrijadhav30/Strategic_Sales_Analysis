@@ -33,7 +33,7 @@ The consumer electronic company has requested a comprehensive analysis of its sa
 - Total Number of Product Categories on Offer
 
 
-![Keypoint](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis_for_Consumer_Electronics_Company/assets/147386271/add9d56c-a84b-414a-ab4c-652693d80cf6)
+![Keypoint](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis/assets/147386271/d6191179-ef4d-49cb-bde2-618b5b5f8a7d)
 
 ### Report 2 : Product Performance Analysis
 - Top and Bottom Product Names by Year
