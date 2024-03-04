@@ -19,7 +19,9 @@ The consumer electronic company has requested a comprehensive analysis of its sa
 - Step 5 : Creating Reports
 
 
+## Model View
 
+![pp5](https://github.com/Gayatrijadhav30/Strategic_Sales_Analysis/assets/147386271/186ad89a-ceb7-4a22-b094-5adce8d3c722)
 
 
 
